@@ -1,0 +1,7 @@
+H:\GeekBrains AR VR Разработка\Lesson 6\Home work 6\PresnikovSA.Lesson6\PresnikovSA.App1\bin\Debug\PresnikovSA.App1.exe.config
+H:\GeekBrains AR VR Разработка\Lesson 6\Home work 6\PresnikovSA.Lesson6\PresnikovSA.App1\bin\Debug\PresnikovSA.App1.exe
+H:\GeekBrains AR VR Разработка\Lesson 6\Home work 6\PresnikovSA.Lesson6\PresnikovSA.App1\bin\Debug\PresnikovSA.App1.pdb
+H:\GeekBrains AR VR Разработка\Lesson 6\Home work 6\PresnikovSA.Lesson6\PresnikovSA.App1\obj\Debug\PresnikovSA.App1.csprojAssemblyReference.cache
+H:\GeekBrains AR VR Разработка\Lesson 6\Home work 6\PresnikovSA.Lesson6\PresnikovSA.App1\obj\Debug\PresnikovSA.App1.csproj.CoreCompileInputs.cache
+H:\GeekBrains AR VR Разработка\Lesson 6\Home work 6\PresnikovSA.Lesson6\PresnikovSA.App1\obj\Debug\PresnikovSA.App1.exe
+H:\GeekBrains AR VR Разработка\Lesson 6\Home work 6\PresnikovSA.Lesson6\PresnikovSA.App1\obj\Debug\PresnikovSA.App1.pdb
