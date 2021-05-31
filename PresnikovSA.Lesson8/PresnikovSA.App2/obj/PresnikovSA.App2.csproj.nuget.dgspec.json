@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\GeekBrains AR VR Разработка\\1 Lesson C#\\Lesson 8\\Home work 8\\PresnikovSA.Lesson8\\PresnikovSA.App2\\PresnikovSA.App2.csproj": {}
+  },
+  "projects": {
+    "H:\\GeekBrains AR VR Разработка\\1 Lesson C#\\Lesson 8\\Home work 8\\PresnikovSA.Lesson8\\PresnikovSA.App2\\PresnikovSA.App2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\GeekBrains AR VR Разработка\\1 Lesson C#\\Lesson 8\\Home work 8\\PresnikovSA.Lesson8\\PresnikovSA.App2\\PresnikovSA.App2.csproj",
+        "projectName": "PresnikovSA.App2",
+        "projectPath": "H:\\GeekBrains AR VR Разработка\\1 Lesson C#\\Lesson 8\\Home work 8\\PresnikovSA.Lesson8\\PresnikovSA.App2\\PresnikovSA.App2.csproj",
+        "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
+        "outputPath": "H:\\GeekBrains AR VR Разработка\\1 Lesson C#\\Lesson 8\\Home work 8\\PresnikovSA.Lesson8\\PresnikovSA.App2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
