@@ -1,0 +1,20 @@
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csprojAssemblyReference.cache
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.GenerateResource.cache
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.CoreCompileInputs.cache
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+C:\sources\gb\charp#1\sandbox\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csprojAssemblyReference.cache
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.GenerateResource.cache
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.CoreCompileInputs.cache
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb

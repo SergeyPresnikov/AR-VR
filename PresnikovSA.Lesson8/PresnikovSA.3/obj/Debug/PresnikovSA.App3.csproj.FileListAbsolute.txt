@@ -1,0 +1,16 @@
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\bin\Debug\az-Latn\TrueFalseEditor.resources.dll
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\bin\Debug\ru-RU\TrueFalseEditor.resources.dll
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\PresnikovSA.App3.csprojAssemblyReference.cache
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.az-Latn.resources
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.ru-RU.resources
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\PresnikovSA.App3.csproj.GenerateResource.cache
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\PresnikovSA.App3.csproj.CoreCompileInputs.cache
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\az-Latn\TrueFalseEditor.resources.dll
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\ru-RU\TrueFalseEditor.resources.dll
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+H:\GeekBrains AR VR Разработка\Lesson 8\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb
